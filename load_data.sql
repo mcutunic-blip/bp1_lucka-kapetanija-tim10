@@ -13,6 +13,7 @@ USE lucka_kapetanija;
 -- /Users/someuser/Personal/Faks/BP1/bp1_lucka-kapetanija-tim10/data/
 -- Primjer pokretanja iz terminala:
 -- mysql --local-infile=1 -u root -p lucka_kapetanija < /Users/someuser/Personal/Faks/BP1/bp1_lucka-kapetanija-tim10/load_data.sql
+-- Na Windows sustavljima obično: C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/
 
 -- UČITAVANJE PODATAKA IZ CSV DATOTEKA
 
