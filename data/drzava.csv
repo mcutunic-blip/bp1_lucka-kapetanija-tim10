@@ -1,0 +1,16 @@
+id,naziv,pozivni_broj,valuta,tecaj_u_eurima,opis
+1,Hrvatska,385,Kuna,7.535000,Članica EU u Jugoistočnoj Europi
+2,Italija,39,Euro,1.000000,Članica EU u Južnoj Europi
+3,Grčka,30,Euro,1.000000,Članica EU na Balkanu
+4,Slovenija,386,Euro,1.000000,Članica EU u Alpama
+5,Norveška,47,Kruna,11.500000,EEA članica u Skandinaviji
+6,Francuska,33,Euro,1.000000,Članica EU u Zapadnoj Europi
+7,Španjolska,34,Euro,1.000000,Članica EU u Južnoj Europi
+8,Portugal,351,Euro,1.000000,Članica EU na Atlantiku
+9,Belgija,32,Euro,1.000000,Članica EU u Zapadnoj Europi
+10,Ujedinjene Arapske Emirate,971,AED,3.700000,Luksko srednje-istočna zemlja
+11,Turska,90,Lira,23.500000,Srednjoistočna zemlja na Bosporu
+12,Rusija,7,Rublja,103.000000,Azijska zemlja
+13,Kanada,1,Dolar,1.080000,Sjevernoamerička zemlja
+14,SAD,1,Dolar,1.080000,Sjevernoamerička zemlja
+15,Australija,61,Dolar,1.600000,Oceanijski kontinent

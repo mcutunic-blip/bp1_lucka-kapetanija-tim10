@@ -1,0 +1,31 @@
+id,naziv_ulice,dodatan_opis,id_grad
+1,Trg bana Jelačića 1,Centar Zagreba,1
+2,Kneza Brisimira 6,Centar Zagreba,1
+3,Vukovarska 54,Centar Zagreba,1
+4,Riviera,Obala u Splitu,2
+5,Tončičeva 2,Centar Splita,2
+6,Marjan 7,Brežovljani,2
+7,Glagoljaška 1,Luka Rijeka,3
+8,Jadranski most,Centar Rijeke,3
+9,Damira Matijevića 1,Rijeka,3
+10,Cosmacendi 1,Zadar,4
+11,Narodni muzej,Zadar,4
+12,Kneza Branimira 2,Zadar,4
+13,Europska avenija,Osijek,5
+14,Szántó J. 4,Centar Osijeka,5
+15,Karolinskog 16,Korzo Rijeke,3
+16,Dubrovnik Port,Luka Dubrovnika,6
+17,Stradun 25,Dubrovnik,6
+18,Sergijevac,Pula,7
+19,Giardini 1,Pula,7
+20,Zvonimirova 5,Pula,7
+21,Gravisi 18,Rovinj,8
+22,Carrera 1,Rovinj,8
+23,Ruga Grisia 4,Rovinj,8
+24,Grand Canal,Venecija,9
+25,Piazza San Marco 1,Venecija,9
+26,Ponte dei Sospiri,Venecija,9
+27,Akropola 1,Atena,11
+28,Syntagma Square,Atena,11
+29,Quay Street,Solun,12
+30,Congress Square,Ljubljana,13

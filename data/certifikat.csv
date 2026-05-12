@@ -1,0 +1,26 @@
+id,id_broda,naziv_certifikata,broj_certifikata,datum_izdavanja,datum_isteka,izdao
+1,1,International Tonnage Certificate,ITC-2010-001,2010-06-15,2027-06-15,International Maritime Organization
+2,1,Port State Safety Certificate,PSC-2024-001,2024-01-20,2025-01-20,EU Port Authority
+3,2,International Safety Management Code,ISM-2012-001,2012-08-22,2026-08-22,ClassNK
+4,2,Maritime Labour Convention,MLC-2023-001,2023-05-10,2024-05-10,International Labour Organization
+5,3,Load Line Certificate,LLC-2008-001,2008-12-01,2026-12-01,Lloyd's Register
+6,3,International Tonnage Certificate,ITC-2008-002,2008-12-01,2026-12-01,Lloyd's Register
+7,4,International Safety Management Code,ISM-2015-001,2015-04-18,2025-04-18,ABS
+8,4,Classification Certificate,CC-2015-001,2015-09-30,2026-09-30,DNV GL
+9,5,International Tonnage Certificate,ITC-2011-001,2011-02-14,2027-02-14,Nippon Kaiji Kyokai
+10,5,Port State Safety Certificate,PSC-2024-002,2024-03-05,2025-03-05,Scandinavian Maritime Authority
+11,6,International Safety Management Code,ISM-2013-001,2013-11-25,2025-11-25,Bureau Veritas
+12,6,Load Line Certificate,LLC-2013-002,2013-11-25,2025-11-25,Bureau Veritas
+13,7,International Tonnage Certificate,ITC-2009-001,2009-07-08,2027-07-08,Korean Register
+14,7,Maritime Labour Convention,MLC-2023-002,2023-09-15,2024-09-15,International Labour Organization
+15,8,International Safety Management Code,ISM-2014-001,2014-03-20,2026-03-20,ABS
+16,8,Classification Certificate,CC-2014-001,2014-10-05,2025-10-05,DNV GL
+17,9,International Tonnage Certificate,ITC-2016-001,2016-05-12,2027-05-12,Lloyd's Register
+18,9,Port State Safety Certificate,PSC-2024-003,2024-02-28,2025-02-28,Singapore Maritime Authority
+19,10,International Safety Management Code,ISM-2017-001,2017-08-30,2026-08-30,Bureau Veritas
+20,10,Load Line Certificate,LLC-2017-001,2017-08-30,2025-08-30,Bureau Veritas
+21,11,International Tonnage Certificate,ITC-2018-001,2018-01-15,2026-01-15,Nippon Kaiji Kyokai
+22,11,Maritime Labour Convention,MLC-2024-001,2024-01-10,2025-01-10,International Labour Organization
+23,12,International Safety Management Code,ISM-2019-001,2019-06-22,2026-06-22,ClassNK
+24,12,Classification Certificate,CC-2019-001,2019-11-11,2026-11-11,DNV GL
+25,13,International Tonnage Certificate,ITC-2020-001,2020-04-28,2027-04-28,ABS

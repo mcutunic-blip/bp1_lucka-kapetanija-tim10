@@ -1,0 +1,9 @@
+id,naziv,kapacitet_tereta,dubina_vode,tip_pristanista,dostupno_od,dostupno_do
+1,Pristanište broj 1,50000.00,12.50,kontejnerski,08:00:00,22:00:00
+2,Pristanište broj 2,45000.00,11.00,suhi,06:00:00,23:00:00
+3,Pristanište broj 3,38000.00,10.50,tekuci,24:00:00,24:00:00
+4,Pristanište broj 4,42000.00,11.50,suhi,08:00:00,20:00:00
+5,Pristanište broj 5,55000.00,13.00,kontejnerski,24:00:00,24:00:00
+6,Pristanište broj 6,40000.00,10.80,tekuci,07:00:00,19:00:00
+7,Pristanište broj 7,35000.00,9.50,suhi,08:00:00,18:00:00
+8,Pristanište broj 8,48000.00,12.00,opci,24:00:00,24:00:00

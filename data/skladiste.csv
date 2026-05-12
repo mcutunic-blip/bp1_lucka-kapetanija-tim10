@@ -1,0 +1,9 @@
+id,naziv,kapacitet,temperatura_kontrola,tip_skladista,lokacija
+1,Skladište broj 1,25000.00,false,suhi teret,Obala luke
+2,Skladište broj 2,30000.00,true,frigo,Klimatizovano
+3,Skladište broj 3,35000.00,false,tekuci teret,Industrijska zona
+4,Skladište broj 4,28000.00,true,frigo,Temperaturno kontrolisano
+5,Skladište broj 5,40000.00,false,suhi teret,Industrijska zona
+6,Skladište broj 6,22000.00,true,kemikalije,Sigurnosna zona
+7,Skladište broj 7,32000.00,false,suhi teret,Logistički centar
+8,Skladište broj 8,26000.00,false,opšte,Slobodno pristupačno

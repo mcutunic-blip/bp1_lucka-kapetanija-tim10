@@ -1,0 +1,9 @@
+id,naziv_tipa,opis,maksimalna_tonaža
+1,Teretnjak,Opći teretni brod za raznovrsni teret,75000.00
+2,Tanker,Brod za transport tekućeg tereta,120000.00
+3,Kontejnerski,Specijalizirani brod za kontejnere,180000.00
+4,Ro-Ro,Brod za transport vozila,65000.00
+5,Bulk carrier,Brod za praškaste terete,220000.00
+6,Hladnjača,Brod sa hladnjačama za prehrambene proizvode,45000.00
+7,Putnički,Brod za prijevoz putnika,95000.00
+8,Lov,Mali teretni brod,15000.00
