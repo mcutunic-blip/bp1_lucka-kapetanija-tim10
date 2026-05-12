@@ -1,0 +1,31 @@
+id,id_broda,id_osobe,ocjena,komentar,datum
+1,1,1,5,Odličan brod brzo je učitavao teret i bio je profesionalan,2026-04-25
+2,1,2,4,Dobra komunikacija sa posadom ali je boravak bio dulji nego što se očekivalo,2026-04-25
+3,2,3,5,Fantastičan brod posada je bila veoma ljubazna i profesionalna,2026-04-26
+4,2,4,4,Dobro sve je prošlo pero bilo je nekoliko sitnih problema,2026-04-26
+5,3,5,4,Brod je siguran i pouzdana su bili na vremenu,2026-04-21
+6,3,6,3,Solidno ali su neki sustemi trebali održavanja,2026-04-21
+7,4,7,5,Odličan kapitan i posada brod je bio technički besprekoran,2026-04-28
+8,4,8,5,Sve je savršeno svi čekovi su prošli bez problema,2026-04-28
+9,5,9,4,Dobar brod ali je tanking trajao malo duže,2026-04-27
+10,5,10,4,Solidno ali bi trebalo malo bolji raspored,2026-04-27
+11,6,11,5,Odličan servis i brz istovar tereta,2026-04-25
+12,6,12,4,Dobar brod malo čekanja u redu,2026-04-25
+13,7,13,4,Profesionalan tim i dobar rad,2026-04-27
+14,7,14,3,Osrednje posada nije bila baš ljubazna,2026-04-27
+15,8,15,5,Odličan brod sve je bilo savršeno planiran,2026-04-30
+16,8,16,5,Fantastičan rad cijelog tima i brzo uczitavanja,2026-04-30
+17,9,17,4,Dobro ali bi trebalo malo bolje komuniciranja,2026-05-01
+18,9,18,4,Solidno svi zahtjevi su ispunjeni,2026-05-01
+19,10,19,5,Odličan brod sigurnošt je bila prioritet,2026-04-22
+20,10,20,5,Fantastičan servis posada je bila super,2026-04-22
+21,11,21,4,Dobar brod malo je bilo problema s paperima,2026-04-27
+22,11,22,4,Solidno ali trebalo je duže čekanja,2026-04-27
+23,12,23,5,Odličan mega brod sve je savršeno,2026-05-02
+24,12,24,5,Fantastičan rad cijela komande,2026-05-02
+25,13,25,4,Dobro ali su bili neki problemi s dokovajem,2026-04-24
+26,13,26,3,Osrednje trebalo je više vremena,2026-04-24
+27,14,27,5,Odličan brod brz i siguran,2026-04-28
+28,14,28,4,Dobar brod malo čekanja između operacija,2026-04-28
+29,15,29,5,Fantastičan brod savršena komunikacija,2026-05-01
+30,15,30,4,Dobro svi zahtjevi su zadovoljeni,2026-05-01

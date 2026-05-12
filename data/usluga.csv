@@ -1,0 +1,16 @@
+id,naziv_usluge,opis,cijena_po_toni,cijena_po_satu,cijena_fiksna
+1,Učitavanje tereta,Učitavanje tereta sa broda u skladište,2.50,NULL,NULL
+2,Istovar tereta,Istovar tereta iz skladišta na brod,2.50,NULL,NULL
+3,Skladištenje,Boravak tereta u skladištu,0.80,NULL,NULL
+4,Manipulacija teretom,Utovar istovar i manipulacija teretom,3.00,NULL,NULL
+5,Održavanje pristaništa,Održavanje opreme na pristaništu,NULL,85.00,NULL
+6,Sigurnosni nadzor,24-satni sigurnosni nadzor broda,NULL,50.00,NULL
+7,Putni dokumenti,Obrada putnih dokumenata i manifestа,NULL,NULL,150.00
+8,Provjera broda,Tehničko-sigurnosna provjera broda,NULL,120.00,NULL
+9,Tanking goriva,Tanking goriva i maziva,1.00,NULL,NULL
+10,Otpad i pročiscavanje,Pročiscavanje i zbrinjavanja otpada,NULL,NULL,300.00
+11,Pristojbe luke,Osnovna pristojba za boravak u lici,NULL,NULL,500.00
+12,Sveučilištenja usluge,Dodatne razne usluge,NULL,70.00,NULL
+13,Repaired i održavanje,Brzi popravci i održavanje broda,NULL,100.00,NULL
+14,Carinsko čišćenje,Carinska provjera tereta,NULL,NULL,200.00
+15,Veterinarska kontrola,Veterinarska kontrola za hladnjače,NULL,NULL,250.00

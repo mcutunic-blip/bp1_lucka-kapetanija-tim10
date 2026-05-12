@@ -1,0 +1,36 @@
+id,id_dokovanja,id_usluge,id_zaposlenika,iznos_u_eurima,datum_placanja,nacin_placanja,opis
+1,1,1,1,187500.00,2026-04-20,transfer,Učitavanje 75 tona elektronike
+2,1,6,2,1200.00,2026-04-20,transfer,Sigurnosni nadzor tijekom boravka
+3,1,7,3,150.00,2026-04-20,kartice,Obrada putnih dokumenata
+4,1,11,1,500.00,2026-04-20,transfer,Osnovna pristojba luke
+5,2,2,7,450000.00,2026-04-22,transfer,Istovar 180 tona benzina
+6,2,6,8,2700.00,2026-04-22,transfer,Sigurnosni nadzor tijekom boravka
+7,2,11,9,500.00,2026-04-22,kartice,Osnovna pristojba luke
+8,3,9,1,75000.00,2026-04-19,transfer,Tanking goriva
+9,3,6,2,900.00,2026-04-19,kartice,Sigurnosni nadzor
+10,3,11,13,500.00,2026-04-19,transfer,Osnovna pristojba luke
+11,4,1,7,450000.00,2026-04-24,transfer,Učitavanje 150 tona tereta
+12,4,2,12,300000.00,2026-04-24,transfer,Istovar 120 tona tereta
+13,4,6,14,1680.00,2026-04-24,kartice,Sigurnosni nadzor
+14,4,11,15,500.00,2026-04-24,transfer,Osnovna pristojba luke
+15,5,1,1,700000.00,2026-04-23,transfer,Učitavanje 280 tona tereta
+16,5,6,16,3600.00,2026-04-23,transfer,Sigurnosni nadzor
+17,5,11,17,500.00,2026-04-23,kartice,Osnovna pristojba luke
+18,6,2,18,500000.00,2026-04-21,transfer,Istovar 200 tona tereta
+19,6,6,19,900.00,2026-04-21,transfer,Sigurnosni nadzor
+20,6,11,20,500.00,2026-04-21,kartice,Osnovna pristojba luke
+21,7,1,1,550000.00,2026-04-22,transfer,Učitavanje 220 tona tereta
+22,7,2,2,125000.00,2026-04-22,transfer,Istovar 50 tona tereta
+23,7,6,3,600.00,2026-04-22,kartice,Sigurnosni nadzor
+24,7,11,7,500.00,2026-04-22,transfer,Osnovna pristojba luke
+25,8,1,12,400000.00,2026-04-25,transfer,Učitavanje 160 tona tereta
+26,8,2,13,350000.00,2026-04-25,transfer,Istovar 140 tona tereta
+27,8,6,14,2160.00,2026-04-25,kartice,Sigurnosni nadzor
+28,8,11,15,500.00,2026-04-25,transfer,Osnovna pristojba luke
+29,9,2,1,625000.00,2026-04-26,transfer,Istovar 250 tona tereta
+30,9,6,16,1800.00,2026-04-26,transfer,Sigurnosni nadzor
+31,9,11,17,500.00,2026-04-26,kartice,Osnovna pristojba luke
+32,10,9,18,75000.00,2026-04-20,transfer,Tanking goriva
+33,10,6,19,600.00,2026-04-20,kartice,Sigurnosni nadzor
+34,10,11,20,500.00,2026-04-20,transfer,Osnovna pristojba luke
+35,11,1,1,475000.00,2026-04-23,transfer,Učitavanje 190 tona tereta

@@ -1,0 +1,21 @@
+id,id_broda,id_inspektora,datum_inspekcije,rezultat,napomene
+1,1,3,2026-04-15,prosao,Brod je u dobrom stanju svi sistemi ispravni
+2,2,3,2026-04-16,prosao,Bez primjedbi inspektori su zadovoljni
+3,3,3,2026-04-17,uslovno,Male neispravnosti u sigurnosnim sustavima trebam popraviti
+4,4,3,2026-04-18,prosao,Brod prolazi sve testove tehnički je spreman
+5,5,10,2026-04-15,prosao,Sigurnosni sustavi su ažurirani i radni
+6,6,10,2026-04-19,uslovno,Potrebna je provjera hidraulike u kraćem roku
+7,7,16,2026-04-20,prosao,Svi certifikati su u redu inspekcija prošla
+8,8,16,2026-04-16,prosao,Brod je sposoban za plovidbu
+9,9,3,2026-04-21,prosao,Odličan tehnički status broda
+10,10,10,2026-04-17,prosao,Brodske sisteme su u savršenom stanju
+11,11,16,2026-04-18,uslovno,Potreban pregled motora u roku od mjesec dana
+12,12,3,2026-04-19,prosao,Mega brod je siguran za plovidbu
+13,13,10,2026-04-15,prosao,Sigurnosna oprema je kompletna
+14,14,16,2026-04-22,prosao,Brod je tehnički ispravan
+15,15,3,2026-04-16,prosao,Sve sigurnosne mere su provedene
+16,1,10,2026-04-23,prosao,Re-inspekcija pokazuje poboljšanja
+17,2,16,2026-04-20,prosao,Brodski sustavi su ažurirani
+18,3,3,2026-04-21,prosao,Tehnička provjera pokazuje konformitet
+19,4,10,2026-04-22,prosao,Brod je spreman za sljedeće putovanje
+20,5,16,2026-04-23,prosao,Sve sustave su funkcionalni

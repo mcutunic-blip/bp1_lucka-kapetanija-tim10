@@ -1,0 +1,21 @@
+id,naziv_tereta,tip_tereta,opis,masa_kg,temperatura_min,temperatura_max
+1,Kontejneri sa elektronikom,suhi,Razni elektronski uređaji,500000.00,,
+2,Benzin,tekuci,Motorna goriva,750000.00,-10,35
+3,Žito,suhi,Pšenica i ječam,1200000.00,-5,25
+4,Maslinovo ulje,tekuci,Mediteransko maslinovo ulje,450000.00,10,25
+5,Čelik,suhi,Čelični valjci i profili,2000000.00,,
+6,Voće,frigo,Jabuke i kruške,350000.00,0,5
+7,Kemikalije,opasni,Industrijske kemikalije,600000.00,15,30
+8,Papir,suhi,Papirni valjci,800000.00,,
+9,Rijetke zemlje,suhi,Rijetke zemlje za magnete,300000.00,,
+10,Vino,tekuci,Kvalitetno vino Dalmatinskog porijekla,280000.00,12,18
+11,Meso,frigo,Zamrznutino meso,500000.00,-20,-15
+12,Drvna građa,suhi,Timber iz Skandinavije,950000.00,,
+13,Prehrambeni derivati,frigo,Konzervirana hrana,400000.00,-5,10
+14,Tekstil,suhi,Tekstilni proizvodi i tkanine,550000.00,,
+15,Plastika,suhi,Plastični granulati i proizvodi,680000.00,,
+16,Zapaljivost,opasni,Zapaljivost tvari,200000.00,5,40
+17,Autodijelovi,suhi,Dijelovi automobila,480000.00,,
+18,Kokos,suhi,Kokosova vlakna,350000.00,,
+19,Limon,frigo,Svježe limune,420000.00,8,15
+20,Cink,suhi,Cinkovo rude i koncentrati,1500000.00,,

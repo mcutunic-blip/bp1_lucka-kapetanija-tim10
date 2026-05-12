@@ -1,0 +1,11 @@
+id,ime_pozicije,opis_pozicije,minimalna_placa
+1,Lučki kapetan,Odgovoran za ukupnu organizaciju luke,4500.00
+2,Inspektor sigurnosti,Provodi sigurnosne inspekcije brodova,3800.00
+3,Rukovaoc kranom,Radi sa portalom krane za dizanje tereta,3200.00
+4,Skladištač,Skladišti i organizira teret,2500.00
+5,Činovnik uprave,Obrada administrativnih poslova,3000.00
+6,Tehnički specijalist,Održavanje opreme luke,3600.00
+7,Čuvar luke,Sigurnosne patrole luke,2300.00
+8,Putni agent,Radi sa brodovima i njihovim dokumentima,3100.00
+9,Vozač,Transportira teret unutar luke,2600.00
+10,Računovođa,Obrada financijskih podataka,3400.00

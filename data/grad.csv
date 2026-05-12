@@ -1,0 +1,31 @@
+id,naziv,postanski_broj,id_drzava,opis
+1,Zagreb,10000,1,Glavni grad Hrvatske na rijeci Savi
+2,Split,21000,1,Primorski grad na Dalmaciji
+3,Rijeka,51000,1,Glavni lučki grad Hrvatske
+4,Zadar,23000,1,Grad na Jadranskoj obali
+5,Osijek,31000,1,Grad u Panonskoj nizini
+6,Dubrovnik,20000,1,Grad na Dalmatinskoj obali
+7,Pula,52000,1,Isen grad u Istri sa ključnom lukom
+8,Rovinj,52210,1,Manji primorski grad
+9,Venecija,30100,2,Laguna grad u Italiji
+10,Rijeka,51000,1,Lučki grad
+11,Atena,10100,3,Glavni grad Grčke
+12,Solun,54100,3,Grad na Egejskom moru
+13,Ljubljana,1000,4,Glavni grad Slovenije
+14,Portorož,6280,4,Lučki grad Slovenije
+15,Oslo,0150,5,Glavni grad Norveške
+16,Bergen,5000,5,Lučki grad Norveške
+17,Pariz,75001,6,Glavni grad Francuske
+18,Lyon,69000,6,Grad u Francuskoj
+19,Barselona,08002,7,Grad sa lukom u Španjolskoj
+20,Lisabon,1100,8,Glavni grad Portugala
+21,Porto,4000,8,Lučki grad Portugala
+22,Antverpen,2000,9,Lučki grad Belgije
+23,Bruxelles,1000,9,Glavni grad Belgije
+24,Dubaï,00971,10,Grad sa najvećom lukom u Bliskom Istoku
+25,Stambul,34000,11,Grad na Bosporu
+26,Moskva,101000,12,Glavni grad Rusije
+27,Vladivostok,690000,12,Lučki grad Rusije
+28,Vancouver,V6B,13,Lučki grad Kanade
+29,Los Angeles,90001,14,Lučki grad SAD-a
+30,Sydney,2000,15,Grad sa razvijena lukom u Australiji

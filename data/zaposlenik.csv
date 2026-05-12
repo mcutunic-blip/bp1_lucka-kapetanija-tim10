@@ -1,0 +1,21 @@
+id,id_osoba,ugovor_o_radu,placa,datum_zaposlenja
+1,1,na neodredjeno,3500.00,2010-01-15
+2,2,na neodredjeno,3200.00,2012-03-20
+3,3,na neodredjeno,3800.00,2015-06-10
+4,4,na odredjeno,2800.00,2022-09-01
+5,5,na odredjeno,2600.00,2023-01-15
+6,6,studentski,1200.00,2023-10-01
+7,7,na neodredjeno,4000.00,2008-04-22
+8,8,honorarno,2000.00,2023-06-01
+9,9,na neodredjeno,3300.00,2018-02-14
+10,10,na neodredjeno,3100.00,2016-08-30
+11,11,na odredjeno,2700.00,2023-03-01
+12,12,na neodredjeno,3900.00,2011-11-08
+13,13,na neodredjeno,3600.00,2014-05-12
+14,14,studentski,1400.00,2024-01-01
+15,15,honorarno,2200.00,2023-07-15
+16,16,na neodredjeno,3400.00,2017-09-20
+17,17,na neodredjeno,4100.00,2009-02-03
+18,18,na odredjeno,2900.00,2023-11-01
+19,19,na neodredjeno,3700.00,2013-08-25
+20,20,na neodredjeno,3200.00,2019-04-18

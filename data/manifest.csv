@@ -1,0 +1,36 @@
+id,id_broda,id_tereta,kolicina,masa_ukupno,porijeklo_grad,odrediste_grad,datum_registracije
+1,1,1,150,75000.00,Šangaj,Antverpen,2026-04-15
+2,1,5,200,100000.00,Pekmen,Rotterdam,2026-04-15
+3,2,2,80,60000.00,Rotterdam,Rijeka,2026-04-16
+4,2,4,120,54000.00,Tunis,Barcelona,2026-04-16
+5,3,2,100,75000.00,Novorosijsk,Trieste,2026-04-17
+6,4,3,500,600000.00,Odessa,Antverpen,2026-04-18
+7,4,7,95,57000.00,Huston,Rotterdam,2026-04-18
+8,5,1,180,90000.00,Busan,Hamburg,2026-04-15
+9,5,8,250,200000.00,Vladivostock,Amsterdam,2026-04-15
+10,6,4,140,63000.00,Genova,Barcelona,2026-04-19
+11,6,11,110,55000.00,Dublin,Rijeka,2026-04-19
+12,7,3,380,456000.00,Konstanca,Antverpen,2026-04-20
+13,7,12,220,209000.00,Oslo,Hamburg,2026-04-20
+14,8,2,125,93750.00,Haifa,Salerno,2026-04-16
+15,8,6,160,64000.00,İskenderun,Lisabon,2026-04-16
+16,9,1,200,100000.00,Singapur,Rotterdam,2026-04-21
+17,9,13,180,72000.00,Copenhague,Gdańsk,2026-04-21
+18,10,2,110,82500.00,Kouveit,Dubrovnik,2026-04-17
+19,10,14,240,132000.00,Bombaj,Hamburg,2026-04-17
+20,11,5,270,135000.00,Šangaj,Bremerhaven,2026-04-18
+21,11,11,125,62500.00,Auckland,Gdańsk,2026-04-18
+22,12,3,700,840000.00,Odessa,Antverpen,2026-04-19
+23,12,20,150,225000.00,Brisbane,Hamburg,2026-04-19
+24,13,1,160,80000.00,Los Angeles,Rotterdam,2026-04-15
+25,13,4,180,81000.00,Tunis,Valencia,2026-04-15
+26,14,2,95,71250.00,Novo Ruos,Fiume,2026-04-22
+27,14,10,200,56000.00,Bordeaux,Antverpen,2026-04-22
+28,15,3,450,540000.00,Konstanca,Antverpen,2026-04-16
+29,15,15,280,190400.00,Pekmen,Hamburg,2026-04-16
+30,2,6,140,56000.00,Sevilla,Rijeka,2026-04-23
+31,3,8,220,176000.00,Göteborg,Amsterdam,2026-04-20
+32,4,11,130,65000.00,Helsinki,Dublin,2026-04-24
+33,5,2,88,66000.00,Sulina,Savona,2026-04-20
+34,6,3,320,384000.00,Mykolaiv,Gdańsk,2026-04-23
+35,7,1,170,85000.00,Kaohsiung,Rotterdam,2026-04-22
