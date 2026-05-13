@@ -51,7 +51,7 @@ JOIN brod b
     ON d.id_broda = b.id
 
 JOIN pristaniste p
-    ON d.id_pritanista = p.id
+    ON d.id_pristanista = p.id
 
 WHERE d.datum_polaska IS NULL;
 
@@ -82,7 +82,7 @@ SELECT
 FROM dokovanje d
 
 JOIN pristaniste p
-    ON d.id_pritanista = p.id
+    ON d.id_pristanista = p.id
 
 GROUP BY p.id, p.naziv
 
@@ -106,7 +106,7 @@ WHERE NOT EXISTS (
 
     FROM dokovanje d
 
-    WHERE d.id_pritanista =
+    WHERE d.id_pristanista =
         p.id
 
     AND d.datum_polaska IS NULL

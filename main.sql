@@ -139,14 +139,14 @@ CREATE TABLE pristaniste (
 CREATE TABLE dokovanje (
     id INT AUTO_INCREMENT PRIMARY KEY,
     id_broda INT NOT NULL,
-    id_pritanista INT NOT NULL,
+    id_pristanista INT NOT NULL,
     datum_dolaska DATETIME NOT NULL,
     datum_polaska DATETIME,
     svrha_boravka VARCHAR(255) NOT NULL,
     broj_tereta_unesen INT DEFAULT 0,
     broj_tereta_izlazak INT DEFAULT 0,
     FOREIGN KEY (id_broda) REFERENCES brod(id),
-    FOREIGN KEY (id_pritanista) REFERENCES pristaniste(id)
+    FOREIGN KEY (id_pristanista) REFERENCES pristaniste(id)
 );
 
 -- TABLICA: teret
