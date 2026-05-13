@@ -1,4 +1,4 @@
-id,id_broda,id_pritanista,datum_dolaska,datum_polaska,svrha_boravka,broj_tereta_unesen,broj_tereta_izlazak
+id,id_broda,id_pristanista,datum_dolaska,datum_polaska,svrha_boravka,broj_tereta_unesen,broj_tereta_izlazak
 1,1,1,2026-04-15 08:30:00,2026-04-20 16:45:00,Učitavanje tereta,250,0
 2,2,2,2026-04-16 10:15:00,2026-04-22 18:20:00,Istovar tereta,0,180
 3,3,3,2026-04-17 14:00:00,2026-04-19 12:30:00,Tanking goriva,0,0
