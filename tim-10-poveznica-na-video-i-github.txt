@@ -1,2 +1,2 @@
 github: https://github.com/mcutunic-blip/bp1_lucka-kapetanija-tim10
-video prezentacija: 
+video prezentacija: https://www.youtube.com/watch?v=ysd0K-bDlMc
